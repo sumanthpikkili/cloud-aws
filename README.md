@@ -17,6 +17,9 @@ The file with earthquakes’ details (all_month.csv) was initially downloaded ma
 An AWS account was created and an EC2 instance (Ubuntu) was created. AWS CLI was installed on the local machine.
 STEP 3:
 The ‘awscloud1.py’ program(In the ZIP file) uploads the csv file from the AWS Cloud Folder to S3. The Python code creates a bucket in AWS S3 and places the file there. The time taken to upload the file ‘all_month.csv’ to S3 was 0.657 seconds.
+
+##STEP 3:
+The ‘awscloud1.py’ program(In the ZIP file) uploads the csv file from the AWS Cloud Folder to S3. The Python code creates a bucket in AWS S3 and places the file there. The time taken to upload the file ‘all_month.csv’ to S3 was 0.657 seconds.
 ￼￼￼￼￼
 ##￼STEP 4:
 ￼Connect to the AWS EC2 instance
